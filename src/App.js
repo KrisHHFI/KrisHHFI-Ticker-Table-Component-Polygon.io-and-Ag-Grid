@@ -1,10 +1,10 @@
 import './App.css';
-import StockDashboard from './components/StockDashboard';
+import TickerTable from './components/TickerTable';
 
 function App() {
   return (
     <div className="App">
-      <StockDashboard />
+      <TickerTable />
     </div>
   );
 }

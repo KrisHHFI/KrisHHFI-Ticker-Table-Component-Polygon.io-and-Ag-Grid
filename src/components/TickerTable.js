@@ -5,10 +5,10 @@ import 'ag-grid-community/dist/styles/ag-grid.css'
 import 'ag-grid-community/dist/styles/ag-theme-material.css';
 // Created by Kristopher Pepper in 2023
 // Polygon.io API in use. User must use their own Polygon API key as the "apiKey" variable. Polygon.io allows 5 GET's per/min.
-// Component Called via <StockDashboard /> 
+// Component Called via <TickerTable /> 
 // Dependencies in use- ag-grid-community@28.2.1 ag-grid-react@28.2.1
-export default function StockDashboard(props) {
-    const apiKey = 'DKFcD0ufLvFUjgUiRQUbtcG0ZP4RnjMo'; // My personal api code
+export default function TickerTable(props) {
+    const apiKey = 'DKFcD0ufLvFUjgUiRQUbtcG0ZP4RnjMo'; // Insert your personal api code
     let tickerInput = ''; // Ticker input string
     const [tickers, setTickers] = useState([]); // The ticker array
     const gridRef = useRef(); // Grid ref required by AgGrid
