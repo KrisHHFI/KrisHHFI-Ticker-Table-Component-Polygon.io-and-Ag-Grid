@@ -1,5 +1,7 @@
 # US Stock Ticker Table Component
 
+Check out the [demo video](https://youtu.be/gxqtHJN4tUc).
+
 ### Launch the App
 
 1) Set up a Polygon.io account (free memberships are available).
