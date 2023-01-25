@@ -13,6 +13,6 @@
 
 - The app was created in January 2023.
 - The tickers which can be found are those which are accesible via Polygon.io API "Ticker Details v3". Searchable tickers seem to be listed medium or large cap US companies.
-- The app shows end of day market data.
-- Please do not invest or make financial decisions based upon the data found here.
 - Updating Ag Grid to the latest version will cause errors. 
+- The app shows end of day market data.
+- Please do not invest based upon the data found here.
