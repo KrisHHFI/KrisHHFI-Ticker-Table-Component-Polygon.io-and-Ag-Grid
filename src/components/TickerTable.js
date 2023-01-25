@@ -8,7 +8,7 @@ import 'ag-grid-community/dist/styles/ag-theme-material.css';
 // Component Called via <TickerTable /> 
 // Dependencies in use- ag-grid-community@28.2.1 ag-grid-react@28.2.1
 export default function TickerTable(props) {
-    const apiKey = 'DKFcD0ufLvFUjgUiRQUbtcG0ZP4RnjMo'; // Insert your personal api code
+    const apiKey = ''; // Insert your personal api code
     let tickerInput = ''; // Ticker input string
     const [tickers, setTickers] = useState([]); // The ticker array
     const gridRef = useRef(); // Grid ref required by AgGrid
