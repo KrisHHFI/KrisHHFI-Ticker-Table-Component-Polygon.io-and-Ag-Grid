@@ -4,7 +4,7 @@
 
 1) Set up a Polygon.io account (free memberships are available).
 2) Find your Polygon.io unique key.
-3) Go to the component file and swap the dummy API key variable text with your own- "us_stock_search_react_component\src\components\StockDashboard.js".
+3) Go to the component file and swap the dummy API key variable text with your own- "us_stock_search_react_component-master\src\components\TickerTable.js".
 4) Navigate to the project folder in Command Prompt.
 5) Execute the command "npm start". The program will now launch. 
 6) Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
