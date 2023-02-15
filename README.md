@@ -1,5 +1,7 @@
 # US Stock Ticker Table Component
 
+<img src="https://images.squarespace-cdn.com/content/v1/587b630aebbd1ab22efeeb6b/36d1d033-d1aa-457c-9739-f7f9dec19cba/US+Stock+Ticker+React.png"/>
+
 Check out the [demo video](https://youtu.be/gxqtHJN4tUc).
 
 ### Launch the App
